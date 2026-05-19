@@ -1,0 +1,379 @@
+[
+  {
+    "id": "ach_001",
+    "title": "First Rep",
+    "description": "You showed up and put in the first rep. That's how every great player started — one drill, one moment of deciding to be better. The journey begins now.",
+    "badgeImageUrl": "",
+    "category": "Training",
+    "xpReward": 50,
+    "condition": {
+      "type": "drillCount",
+      "threshold": 1
+    },
+    "rarity": "Common"
+  },
+  {
+    "id": "ach_002",
+    "title": "Grind Started",
+    "description": "Ten drills completed and counting. You're past the excuse phase and into the work phase. Keep stacking those reps — the results are already building underneath the surface.",
+    "badgeImageUrl": "",
+    "category": "Training",
+    "xpReward": 100,
+    "condition": {
+      "type": "drillCount",
+      "threshold": 10
+    },
+    "rarity": "Common"
+  },
+  {
+    "id": "ach_003",
+    "title": "Ball Is Life",
+    "description": "50 drills done. At this point, basketball isn't just a hobby — it's a lifestyle. Your handles are tighter, your shot is cleaner, and your mindset is locked in. Keep going.",
+    "badgeImageUrl": "",
+    "category": "Training",
+    "xpReward": 300,
+    "condition": {
+      "type": "drillCount",
+      "threshold": 50
+    },
+    "rarity": "Rare"
+  },
+  {
+    "id": "ach_004",
+    "title": "Gym Rat",
+    "description": "100 drills. You've officially put in more reps than most players will in their entire career. The gym knows your name, the ball knows your hands, and your game is undeniable.",
+    "badgeImageUrl": "",
+    "category": "Training",
+    "xpReward": 500,
+    "condition": {
+      "type": "drillCount",
+      "threshold": 100
+    },
+    "rarity": "Rare"
+  },
+  {
+    "id": "ach_005",
+    "title": "No Days Off",
+    "description": "250 drills completed. While others found reasons to skip, you found reasons to stay. No days off isn't a saying — it's your standard. This badge proves it.",
+    "badgeImageUrl": "",
+    "category": "Training",
+    "xpReward": 1000,
+    "condition": {
+      "type": "drillCount",
+      "threshold": 250
+    },
+    "rarity": "Epic"
+  },
+  {
+    "id": "ach_006",
+    "title": "The Process",
+    "description": "500 drills. This is not luck, not talent, not circumstance. This is the result of 500 deliberate decisions to be better. You trusted the process when no one was watching. Now everyone will see it.",
+    "badgeImageUrl": "",
+    "category": "Training",
+    "xpReward": 2500,
+    "condition": {
+      "type": "drillCount",
+      "threshold": 500
+    },
+    "rarity": "Legend"
+  },
+  {
+    "id": "ach_007",
+    "title": "On Fire",
+    "description": "Three days in a row. You've got heat right now — don't let the fire die. Consistency is the ingredient that turns potential into skill. Stay lit.",
+    "badgeImageUrl": "",
+    "category": "Streak",
+    "xpReward": 75,
+    "condition": {
+      "type": "streakDays",
+      "threshold": 3
+    },
+    "rarity": "Common"
+  },
+  {
+    "id": "ach_008",
+    "title": "Hot Streak",
+    "description": "Seven straight days of training. A full week with zero excuses and zero missed sessions. You're not just hot — you're building the habit that separates the players who talk about it from the ones who do it.",
+    "badgeImageUrl": "",
+    "category": "Streak",
+    "xpReward": 150,
+    "condition": {
+      "type": "streakDays",
+      "threshold": 7
+    },
+    "rarity": "Common"
+  },
+  {
+    "id": "ach_009",
+    "title": "Can't Stop Me",
+    "description": "14 days straight. Two solid weeks of work, no breaks. You've passed the point where most people quit, and now you're in territory where real progress lives. Nothing can slow you down.",
+    "badgeImageUrl": "",
+    "category": "Streak",
+    "xpReward": 300,
+    "condition": {
+      "type": "streakDays",
+      "threshold": 14
+    },
+    "rarity": "Rare"
+  },
+  {
+    "id": "ach_010",
+    "title": "Consistent",
+    "description": "30 days in a row. A full month of showing up. The players in your school, your neighborhood, your future college program — none of them have this. This badge means you're different. Wear it with pride.",
+    "badgeImageUrl": "",
+    "category": "Streak",
+    "xpReward": 600,
+    "condition": {
+      "type": "streakDays",
+      "threshold": 30
+    },
+    "rarity": "Rare"
+  },
+  {
+    "id": "ach_011",
+    "title": "Iron Will",
+    "description": "60 days without missing a single training session. That kind of mental discipline doesn't just make you a better player — it makes you a better person. Iron will, iron game.",
+    "badgeImageUrl": "",
+    "category": "Streak",
+    "xpReward": 1200,
+    "condition": {
+      "type": "streakDays",
+      "threshold": 60
+    },
+    "rarity": "Epic"
+  },
+  {
+    "id": "ach_012",
+    "title": "Mamba Mentality",
+    "description": "100 consecutive days of training. This badge is not for everyone. The Mamba Mentality is about obsession with the craft, relentless pursuit of greatness, and never letting a single day slide. You lived it for 100 days straight. Legendary.",
+    "badgeImageUrl": "",
+    "category": "Streak",
+    "xpReward": 3000,
+    "condition": {
+      "type": "streakDays",
+      "threshold": 100
+    },
+    "rarity": "Legend"
+  },
+  {
+    "id": "ach_013",
+    "title": "Shooter",
+    "description": "100 makes logged. You're not just practicing — you're tracking your buckets, putting in real shooting work, and building the muscle memory that creates a scorer. Shooters are made, not born.",
+    "badgeImageUrl": "",
+    "category": "Training",
+    "xpReward": 200,
+    "condition": {
+      "type": "drillCount",
+      "threshold": 100
+    },
+    "rarity": "Common"
+  },
+  {
+    "id": "ach_014",
+    "title": "Pure Stroke",
+    "description": "500 makes logged. Five hundred times the ball left your hand on the right trajectory and found the bottom of the net. That's not luck — that's pure stroke. Defenders better be ready.",
+    "badgeImageUrl": "",
+    "category": "Training",
+    "xpReward": 600,
+    "condition": {
+      "type": "drillCount",
+      "threshold": 500
+    },
+    "rarity": "Rare"
+  },
+  {
+    "id": "ach_015",
+    "title": "Splash",
+    "description": "1000 makes. Splash. Elite-level shooting volume that only the most dedicated workers ever reach. You have become a genuine shooting threat that changes how defenses guard you on every possession.",
+    "badgeImageUrl": "",
+    "category": "Training",
+    "xpReward": 1500,
+    "condition": {
+      "type": "drillCount",
+      "threshold": 1000
+    },
+    "rarity": "Epic"
+  },
+  {
+    "id": "ach_016",
+    "title": "Linked Up",
+    "description": "You posted your first clip to the community. That took courage — putting your work out there for the world to see. The community is watching, and they're ready to cheer you on.",
+    "badgeImageUrl": "",
+    "category": "Community",
+    "xpReward": 50,
+    "condition": {
+      "type": "postCount",
+      "threshold": 1
+    },
+    "rarity": "Common"
+  },
+  {
+    "id": "ach_017",
+    "title": "Community Rep",
+    "description": "10 followers strong. You've built a real audience of people who believe in your game and want to see you succeed. Represent the community well — your growth inspires others to start their own journey.",
+    "badgeImageUrl": "",
+    "category": "Community",
+    "xpReward": 100,
+    "condition": {
+      "type": "followCount",
+      "threshold": 10
+    },
+    "rarity": "Common"
+  },
+  {
+    "id": "ach_018",
+    "title": "Influencer",
+    "description": "100 followers. Your game speaks for itself and 100 people agree. You're not just getting better — you're motivating others to lace up and work. That's the real impact of sharing your grind.",
+    "badgeImageUrl": "",
+    "category": "Community",
+    "xpReward": 400,
+    "condition": {
+      "type": "followCount",
+      "threshold": 100
+    },
+    "rarity": "Rare"
+  },
+  {
+    "id": "ach_019",
+    "title": "Legend Status",
+    "description": "500 followers. You've built a movement. Half a thousand people look to your profile for motivation, technique, and proof that hard work pays off. Legend status in the community is just the beginning.",
+    "badgeImageUrl": "",
+    "category": "Community",
+    "xpReward": 1000,
+    "condition": {
+      "type": "followCount",
+      "threshold": 500
+    },
+    "rarity": "Epic"
+  },
+  {
+    "id": "ach_020",
+    "title": "Challenger",
+    "description": "You stepped up and entered your first weekly challenge. That takes guts — putting your performance on a leaderboard for everyone to see. Challengers are the heartbeat of this community. Welcome to the competition.",
+    "badgeImageUrl": "",
+    "category": "Challenge",
+    "xpReward": 100,
+    "condition": {
+      "type": "challengeWin",
+      "threshold": 1
+    },
+    "rarity": "Common"
+  },
+  {
+    "id": "ach_021",
+    "title": "Competitor",
+    "description": "Top 10 in a weekly challenge. Out of everyone who entered, you stood in the top ten. That's elite-level performance under real competitive pressure. The leaderboard has your name on it — keep climbing.",
+    "badgeImageUrl": "",
+    "category": "Challenge",
+    "xpReward": 400,
+    "condition": {
+      "type": "challengeWin",
+      "threshold": 1
+    },
+    "rarity": "Rare"
+  },
+  {
+    "id": "ach_022",
+    "title": "Champion",
+    "description": "Weekly challenge winner. You went up against the entire community and came out on top. One week. One title. Pure, undeniable, documented proof that your work is elite. Champion.",
+    "badgeImageUrl": "",
+    "category": "Challenge",
+    "xpReward": 1000,
+    "condition": {
+      "type": "challengeWin",
+      "threshold": 1
+    },
+    "rarity": "Epic"
+  },
+  {
+    "id": "ach_023",
+    "title": "Back-to-Back",
+    "description": "Two challenge wins in a row. Defending a title is harder than winning one, and you did it anyway. Back-to-back champions don't get lucky — they are built different. The community knows your name now.",
+    "badgeImageUrl": "",
+    "category": "Challenge",
+    "xpReward": 2500,
+    "condition": {
+      "type": "challengeWin",
+      "threshold": 2
+    },
+    "rarity": "Legend"
+  },
+  {
+    "id": "ach_024",
+    "title": "Level Up",
+    "description": "You've hit 1000 total XP and crossed into a new tier of player. Everything you've put in — every drill, every workout, every post — has brought you here. The next level is waiting. Don't slow down.",
+    "badgeImageUrl": "",
+    "category": "Milestone",
+    "xpReward": 200,
+    "condition": {
+      "type": "xpTotal",
+      "threshold": 1000
+    },
+    "rarity": "Common"
+  },
+  {
+    "id": "ach_025",
+    "title": "All-Star Grind",
+    "description": "5000 total XP earned through pure dedication. You've put in the work of an All-Star — all that's left is the game to prove it. Every rep has built something. This is what that something looks like.",
+    "badgeImageUrl": "",
+    "category": "Milestone",
+    "xpReward": 750,
+    "condition": {
+      "type": "xpTotal",
+      "threshold": 5000
+    },
+    "rarity": "Rare"
+  },
+  {
+    "id": "ach_026",
+    "title": "Elite Earned",
+    "description": "15,000 total XP. That number represents an extraordinary amount of time, sacrifice, and commitment. You didn't just reach the Elite tier — you earned it. Every single point of XP was a choice to be great.",
+    "badgeImageUrl": "",
+    "category": "Milestone",
+    "xpReward": 2000,
+    "condition": {
+      "type": "xpTotal",
+      "threshold": 15000
+    },
+    "rarity": "Epic"
+  },
+  {
+    "id": "ach_027",
+    "title": "Legend of the Court",
+    "description": "25,000 total XP. There is no higher tier. This achievement belongs to a select few who gave everything to the game over a sustained period of time. You are a Legend of the Court — in every sense of the word.",
+    "badgeImageUrl": "",
+    "category": "Milestone",
+    "xpReward": 5000,
+    "condition": {
+      "type": "xpTotal",
+      "threshold": 25000
+    },
+    "rarity": "Legend"
+  },
+  {
+    "id": "ach_028",
+    "title": "Workhorse",
+    "description": "25 total workouts completed. You don't just drill — you train. Full sessions, consistent effort, building real game fitness alongside your skills. A workhorse never stops and never makes excuses.",
+    "badgeImageUrl": "",
+    "category": "Training",
+    "xpReward": 250,
+    "condition": {
+      "type": "workoutCount",
+      "threshold": 25
+    },
+    "rarity": "Common"
+  },
+  {
+    "id": "ach_029",
+    "title": "Program Finisher",
+    "description": "You completed a full workout program from start to finish — every session, every week, every drill. Most players start programs. Very few finish them. You're in a rare group now. Your consistency is your character.",
+    "badgeImageUrl": "",
+    "category": "Milestone",
+    "xpReward": 500,
+    "condition": {
+      "type": "workoutCount",
+      "threshold": 12
+    },
+    "rarity": "Rare"
+  }
+]

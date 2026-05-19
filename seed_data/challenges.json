@@ -1,0 +1,74 @@
+[
+  {
+    "id": "challenge_001",
+    "title": "Ball Handling Blitz — Two-Ball Rep Race",
+    "description": "How many alternating two-ball pound dribbles can you get in 60 seconds? Set up your phone to film from the front, get in your stance, and go to work. Post your clip with your count — the community leaderboard is live all week. Top 3 earn bonus XP. New challenge drops every Monday.",
+    "drillId": "drill_011",
+    "metric": "count",
+    "xpReward": 200,
+    "badgeId": null,
+    "scope": "global",
+    "teamId": null,
+    "entryCount": 0
+  },
+  {
+    "id": "challenge_002",
+    "title": "100 Makes Challenge — Clock Yourself",
+    "description": "100 makes. Any spot on the floor. Any combination of distances. Just don't stop until you hit them all — and don't stop your timer either. Post your finishing time and your shot selection breakdown. Can you break 8 minutes? Can you break 6? The leaderboard doesn't lie.",
+    "drillId": "drill_029",
+    "metric": "duration",
+    "xpReward": 300,
+    "badgeId": null,
+    "scope": "global",
+    "teamId": null,
+    "entryCount": 0
+  },
+  {
+    "id": "challenge_003",
+    "title": "Athleticism Week — Box Jump Max",
+    "description": "Max box jumps in 30 seconds. Film from the side so we can see full extension at the top and a clean landing each rep. Your jumps must be complete — no half-reps count. This is pure explosiveness on display. Who has the most powerful legs in the community?",
+    "drillId": "drill_039",
+    "metric": "count",
+    "xpReward": 200,
+    "badgeId": null,
+    "scope": "global",
+    "teamId": null,
+    "entryCount": 0
+  },
+  {
+    "id": "challenge_004",
+    "title": "Defense Week — Fastest Zig-Zag Slide",
+    "description": "Full court zig-zag defensive slide, baseline to baseline. Stay in your stance the whole way, touch each sideline with your hand, and give us your fastest time. Film from behind to show your footwork — crossed feet mean a disqualified run. Defense wins championships. Prove yours.",
+    "drillId": "drill_036",
+    "metric": "duration",
+    "xpReward": 200,
+    "badgeId": null,
+    "scope": "global",
+    "teamId": null,
+    "entryCount": 0
+  },
+  {
+    "id": "challenge_005",
+    "title": "Free Throw Friday — Streak Challenge",
+    "description": "How many consecutive free throws can you make without a miss? Establish your routine, step to the line, and don't stop until you brick one. Film your entire streak in one continuous take — no cuts allowed. The longest streak by Sunday midnight wins. Step up to the line.",
+    "drillId": "drill_020",
+    "metric": "count",
+    "xpReward": 250,
+    "badgeId": null,
+    "scope": "global",
+    "teamId": null,
+    "entryCount": 0
+  },
+  {
+    "id": "challenge_006",
+    "title": "Combo Week — Smoothest Move in the Gym",
+    "description": "Show us your cleanest 5-move combo. No time limit, no rep requirement — just pure ball-handling artistry. Film in good lighting with enough space to show the full move. The community votes on the winner by Sunday. Creativity, smoothness, and execution all matter. This one's for the culture.",
+    "drillId": "drill_013",
+    "metric": "video",
+    "xpReward": 350,
+    "badgeId": null,
+    "scope": "global",
+    "teamId": null,
+    "entryCount": 0
+  }
+]

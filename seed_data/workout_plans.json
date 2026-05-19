@@ -1,0 +1,761 @@
+[
+  {
+    "id": "plan_pg_rookie",
+    "title": "Point Guard Foundations — Rookie Program",
+    "description": "The Architect starts here. This 4-week program builds the ball handling, shooting fundamentals, and court IQ that every great point guard is built on. Three sessions per week, each one carefully designed to stack skills progressively. By Week 4, you'll move on the court with more confidence and control than when you started.",
+    "targetPosition": "PG",
+    "skillLevel": "Rookie",
+    "durationWeeks": 4,
+    "daysPerWeek": 3,
+    "weeks": [
+      {
+        "weekNumber": 1,
+        "days": [
+          {
+            "dayNumber": 1,
+            "label": "Day 1 — Ball Handling Foundation",
+            "drills": [
+              { "drillId": "drill_003", "order": 1, "sets": 3, "reps": null, "duration": 45 },
+              { "drillId": "drill_004", "order": 2, "sets": 3, "reps": null, "duration": 45 },
+              { "drillId": "drill_005", "order": 3, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_001", "order": 4, "sets": 3, "reps": null, "duration": 60 }
+            ]
+          },
+          {
+            "dayNumber": 2,
+            "label": "Day 2 — Shooting Basics + Footwork",
+            "drills": [
+              { "drillId": "drill_019", "order": 1, "sets": null, "reps": 20, "duration": null },
+              { "drillId": "drill_020", "order": 2, "sets": null, "reps": 25, "duration": null },
+              { "drillId": "drill_046", "order": 3, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_047", "order": 4, "sets": 3, "reps": 10, "duration": null }
+            ]
+          },
+          {
+            "dayNumber": 3,
+            "label": "Day 3 — Defense + Athleticism",
+            "drills": [
+              { "drillId": "drill_032", "order": 1, "sets": 5, "reps": null, "duration": 30 },
+              { "drillId": "drill_033", "order": 2, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_039", "order": 3, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_041", "order": 4, "sets": 3, "reps": null, "duration": 60 }
+            ]
+          }
+        ]
+      },
+      {
+        "weekNumber": 2,
+        "days": [
+          {
+            "dayNumber": 4,
+            "label": "Day 4 — Handles + Control",
+            "drills": [
+              { "drillId": "drill_002", "order": 1, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_006", "order": 2, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_003", "order": 3, "sets": 3, "reps": null, "duration": 45 },
+              { "drillId": "drill_004", "order": 4, "sets": 3, "reps": null, "duration": 45 }
+            ]
+          },
+          {
+            "dayNumber": 5,
+            "label": "Day 5 — Shooting + Layups",
+            "drills": [
+              { "drillId": "drill_023", "order": 1, "sets": null, "reps": 40, "duration": null },
+              { "drillId": "drill_021", "order": 2, "sets": null, "reps": 30, "duration": null },
+              { "drillId": "drill_020", "order": 3, "sets": null, "reps": 25, "duration": null }
+            ]
+          },
+          {
+            "dayNumber": 6,
+            "label": "Day 6 — Full Session Recap",
+            "drills": [
+              { "drillId": "drill_005", "order": 1, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_034", "order": 2, "sets": 4, "reps": null, "duration": 45 },
+              { "drillId": "drill_046", "order": 3, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_040", "order": 4, "sets": 3, "reps": 10, "duration": null }
+            ]
+          }
+        ]
+      },
+      {
+        "weekNumber": 3,
+        "days": [
+          {
+            "dayNumber": 7,
+            "label": "Day 7 — Advanced Handles",
+            "drills": [
+              { "drillId": "drill_001", "order": 1, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_005", "order": 2, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_006", "order": 3, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_002", "order": 4, "sets": 3, "reps": null, "duration": 60 }
+            ]
+          },
+          {
+            "dayNumber": 8,
+            "label": "Day 8 — Shooting Variety",
+            "drills": [
+              { "drillId": "drill_019", "order": 1, "sets": null, "reps": 20, "duration": null },
+              { "drillId": "drill_021", "order": 2, "sets": null, "reps": 30, "duration": null },
+              { "drillId": "drill_022", "order": 3, "sets": null, "reps": 10, "duration": null },
+              { "drillId": "drill_020", "order": 4, "sets": null, "reps": 25, "duration": null }
+            ]
+          },
+          {
+            "dayNumber": 9,
+            "label": "Day 9 — Defense + Conditioning",
+            "drills": [
+              { "drillId": "drill_035", "order": 1, "sets": 4, "reps": null, "duration": 60 },
+              { "drillId": "drill_033", "order": 2, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_039", "order": 3, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_041", "order": 4, "sets": 3, "reps": null, "duration": 60 }
+            ]
+          }
+        ]
+      },
+      {
+        "weekNumber": 4,
+        "days": [
+          {
+            "dayNumber": 10,
+            "label": "Day 10 — Full Ball Handling Circuit",
+            "drills": [
+              { "drillId": "drill_003", "order": 1, "sets": 3, "reps": null, "duration": 45 },
+              { "drillId": "drill_004", "order": 2, "sets": 3, "reps": null, "duration": 45 },
+              { "drillId": "drill_005", "order": 3, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_006", "order": 4, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_001", "order": 5, "sets": 3, "reps": null, "duration": 60 }
+            ]
+          },
+          {
+            "dayNumber": 11,
+            "label": "Day 11 — Shooting + IQ",
+            "drills": [
+              { "drillId": "drill_021", "order": 1, "sets": null, "reps": 30, "duration": null },
+              { "drillId": "drill_023", "order": 2, "sets": null, "reps": 40, "duration": null },
+              { "drillId": "drill_047", "order": 3, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_046", "order": 4, "sets": 3, "reps": 10, "duration": null }
+            ]
+          },
+          {
+            "dayNumber": 12,
+            "label": "Day 12 — Final Test + Athleticism",
+            "drills": [
+              { "drillId": "drill_032", "order": 1, "sets": 5, "reps": null, "duration": 30 },
+              { "drillId": "drill_034", "order": 2, "sets": 4, "reps": null, "duration": 45 },
+              { "drillId": "drill_039", "order": 3, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_040", "order": 4, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_020", "order": 5, "sets": null, "reps": 25, "duration": null }
+            ]
+          }
+        ]
+      }
+    ],
+    "totalXpReward": 1200,
+    "thumbnailUrl": ""
+  },
+  {
+    "id": "plan_sg_rookie",
+    "title": "Shooting Guard Foundations — Rookie Program",
+    "description": "The Bucket Getter's blueprint. This 4-week program is built around what SGs do best: get open, catch, and score. You'll develop your shooting form, off-ball movement, and the athleticism to elevate your game. Three sessions per week that progressively build your offensive arsenal from the ground up.",
+    "targetPosition": "SG",
+    "skillLevel": "Rookie",
+    "durationWeeks": 4,
+    "daysPerWeek": 3,
+    "weeks": [
+      {
+        "weekNumber": 1,
+        "days": [
+          {
+            "dayNumber": 1,
+            "label": "Day 1 — Form Shooting + Handles",
+            "drills": [
+              { "drillId": "drill_019", "order": 1, "sets": null, "reps": 20, "duration": null },
+              { "drillId": "drill_020", "order": 2, "sets": null, "reps": 25, "duration": null },
+              { "drillId": "drill_002", "order": 3, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_005", "order": 4, "sets": 3, "reps": null, "duration": 60 }
+            ]
+          },
+          {
+            "dayNumber": 2,
+            "label": "Day 2 — Athleticism + Defense",
+            "drills": [
+              { "drillId": "drill_039", "order": 1, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_040", "order": 2, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_032", "order": 3, "sets": 5, "reps": null, "duration": 30 },
+              { "drillId": "drill_033", "order": 4, "sets": 3, "reps": null, "duration": 60 }
+            ]
+          },
+          {
+            "dayNumber": 3,
+            "label": "Day 3 — Layups + Footwork",
+            "drills": [
+              { "drillId": "drill_023", "order": 1, "sets": null, "reps": 40, "duration": null },
+              { "drillId": "drill_046", "order": 2, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_047", "order": 3, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_041", "order": 4, "sets": 3, "reps": null, "duration": 60 }
+            ]
+          }
+        ]
+      },
+      {
+        "weekNumber": 2,
+        "days": [
+          {
+            "dayNumber": 4,
+            "label": "Day 4 — Shooting Variety",
+            "drills": [
+              { "drillId": "drill_021", "order": 1, "sets": null, "reps": 30, "duration": null },
+              { "drillId": "drill_019", "order": 2, "sets": null, "reps": 20, "duration": null },
+              { "drillId": "drill_003", "order": 3, "sets": 3, "reps": null, "duration": 45 },
+              { "drillId": "drill_004", "order": 4, "sets": 3, "reps": null, "duration": 45 }
+            ]
+          },
+          {
+            "dayNumber": 5,
+            "label": "Day 5 — Lateral Bounds + Defense",
+            "drills": [
+              { "drillId": "drill_040", "order": 1, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_035", "order": 2, "sets": 4, "reps": null, "duration": 60 },
+              { "drillId": "drill_033", "order": 3, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_041", "order": 4, "sets": 3, "reps": null, "duration": 60 }
+            ]
+          },
+          {
+            "dayNumber": 6,
+            "label": "Day 6 — Figure-8 + Corner Shooting",
+            "drills": [
+              { "drillId": "drill_002", "order": 1, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_006", "order": 2, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_022", "order": 3, "sets": null, "reps": 10, "duration": null },
+              { "drillId": "drill_020", "order": 4, "sets": null, "reps": 25, "duration": null }
+            ]
+          }
+        ]
+      },
+      {
+        "weekNumber": 3,
+        "days": [
+          {
+            "dayNumber": 7,
+            "label": "Day 7 — Catch and Shoot Focus",
+            "drills": [
+              { "drillId": "drill_021", "order": 1, "sets": null, "reps": 30, "duration": null },
+              { "drillId": "drill_023", "order": 2, "sets": null, "reps": 40, "duration": null },
+              { "drillId": "drill_005", "order": 3, "sets": 3, "reps": null, "duration": 60 }
+            ]
+          },
+          {
+            "dayNumber": 8,
+            "label": "Day 8 — Box Jumps + Defensive Slides",
+            "drills": [
+              { "drillId": "drill_039", "order": 1, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_040", "order": 2, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_034", "order": 3, "sets": 4, "reps": null, "duration": 45 },
+              { "drillId": "drill_035", "order": 4, "sets": 4, "reps": null, "duration": 60 }
+            ]
+          },
+          {
+            "dayNumber": 9,
+            "label": "Day 9 — Free Throws + IQ",
+            "drills": [
+              { "drillId": "drill_020", "order": 1, "sets": null, "reps": 25, "duration": null },
+              { "drillId": "drill_046", "order": 2, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_047", "order": 3, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_002", "order": 4, "sets": 3, "reps": null, "duration": 60 }
+            ]
+          }
+        ]
+      },
+      {
+        "weekNumber": 4,
+        "days": [
+          {
+            "dayNumber": 10,
+            "label": "Day 10 — Full Shooting Circuit",
+            "drills": [
+              { "drillId": "drill_019", "order": 1, "sets": null, "reps": 20, "duration": null },
+              { "drillId": "drill_021", "order": 2, "sets": null, "reps": 30, "duration": null },
+              { "drillId": "drill_023", "order": 3, "sets": null, "reps": 40, "duration": null },
+              { "drillId": "drill_020", "order": 4, "sets": null, "reps": 25, "duration": null }
+            ]
+          },
+          {
+            "dayNumber": 11,
+            "label": "Day 11 — Handles + Defense",
+            "drills": [
+              { "drillId": "drill_003", "order": 1, "sets": 3, "reps": null, "duration": 45 },
+              { "drillId": "drill_004", "order": 2, "sets": 3, "reps": null, "duration": 45 },
+              { "drillId": "drill_032", "order": 3, "sets": 5, "reps": null, "duration": 30 },
+              { "drillId": "drill_033", "order": 4, "sets": 3, "reps": null, "duration": 60 }
+            ]
+          },
+          {
+            "dayNumber": 12,
+            "label": "Day 12 — Final Athletic Test",
+            "drills": [
+              { "drillId": "drill_039", "order": 1, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_040", "order": 2, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_041", "order": 3, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_021", "order": 4, "sets": null, "reps": 30, "duration": null }
+            ]
+          }
+        ]
+      }
+    ],
+    "totalXpReward": 1150,
+    "thumbnailUrl": ""
+  },
+  {
+    "id": "plan_sf_rookie",
+    "title": "Small Forward Foundations — Rookie Program",
+    "description": "The Swiss Army Knife learns versatility from day one. This 4-week program combines scoring, defense, and athleticism into a balanced training schedule designed for forwards who want to impact the game on both ends of the floor. Develop the complete game that makes SFs the most valuable players on any team.",
+    "targetPosition": "SF",
+    "skillLevel": "Rookie",
+    "durationWeeks": 4,
+    "daysPerWeek": 3,
+    "weeks": [
+      {
+        "weekNumber": 1,
+        "days": [
+          {
+            "dayNumber": 1,
+            "label": "Day 1 — Layups + Defense Stance",
+            "drills": [
+              { "drillId": "drill_023", "order": 1, "sets": null, "reps": 40, "duration": null },
+              { "drillId": "drill_019", "order": 2, "sets": null, "reps": 20, "duration": null },
+              { "drillId": "drill_032", "order": 3, "sets": 5, "reps": null, "duration": 30 },
+              { "drillId": "drill_033", "order": 4, "sets": 3, "reps": null, "duration": 60 }
+            ]
+          },
+          {
+            "dayNumber": 2,
+            "label": "Day 2 — Athleticism + Footwork",
+            "drills": [
+              { "drillId": "drill_039", "order": 1, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_041", "order": 2, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_046", "order": 3, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_047", "order": 4, "sets": 3, "reps": 10, "duration": null }
+            ]
+          },
+          {
+            "dayNumber": 3,
+            "label": "Day 3 — Ball Handling + Shooting",
+            "drills": [
+              { "drillId": "drill_005", "order": 1, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_002", "order": 2, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_021", "order": 3, "sets": null, "reps": 30, "duration": null },
+              { "drillId": "drill_020", "order": 4, "sets": null, "reps": 25, "duration": null }
+            ]
+          }
+        ]
+      },
+      {
+        "weekNumber": 2,
+        "days": [
+          {
+            "dayNumber": 4,
+            "label": "Day 4 — Catch + Shoot + Defense",
+            "drills": [
+              { "drillId": "drill_021", "order": 1, "sets": null, "reps": 30, "duration": null },
+              { "drillId": "drill_034", "order": 2, "sets": 4, "reps": null, "duration": 45 },
+              { "drillId": "drill_035", "order": 3, "sets": 4, "reps": null, "duration": 60 }
+            ]
+          },
+          {
+            "dayNumber": 5,
+            "label": "Day 5 — Lateral Bounds + Layups",
+            "drills": [
+              { "drillId": "drill_040", "order": 1, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_023", "order": 2, "sets": null, "reps": 40, "duration": null },
+              { "drillId": "drill_022", "order": 3, "sets": null, "reps": 10, "duration": null }
+            ]
+          },
+          {
+            "dayNumber": 6,
+            "label": "Day 6 — Handles + Free Throws",
+            "drills": [
+              { "drillId": "drill_003", "order": 1, "sets": 3, "reps": null, "duration": 45 },
+              { "drillId": "drill_006", "order": 2, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_020", "order": 3, "sets": null, "reps": 25, "duration": null },
+              { "drillId": "drill_047", "order": 4, "sets": 3, "reps": 10, "duration": null }
+            ]
+          }
+        ]
+      },
+      {
+        "weekNumber": 3,
+        "days": [
+          {
+            "dayNumber": 7,
+            "label": "Day 7 — Defense Intensity",
+            "drills": [
+              { "drillId": "drill_032", "order": 1, "sets": 5, "reps": null, "duration": 30 },
+              { "drillId": "drill_033", "order": 2, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_034", "order": 3, "sets": 4, "reps": null, "duration": 45 },
+              { "drillId": "drill_035", "order": 4, "sets": 4, "reps": null, "duration": 60 }
+            ]
+          },
+          {
+            "dayNumber": 8,
+            "label": "Day 8 — Full Shooting Session",
+            "drills": [
+              { "drillId": "drill_019", "order": 1, "sets": null, "reps": 20, "duration": null },
+              { "drillId": "drill_021", "order": 2, "sets": null, "reps": 30, "duration": null },
+              { "drillId": "drill_023", "order": 3, "sets": null, "reps": 40, "duration": null },
+              { "drillId": "drill_022", "order": 4, "sets": null, "reps": 10, "duration": null }
+            ]
+          },
+          {
+            "dayNumber": 9,
+            "label": "Day 9 — Athletic Circuit",
+            "drills": [
+              { "drillId": "drill_039", "order": 1, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_040", "order": 2, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_041", "order": 3, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_046", "order": 4, "sets": 3, "reps": 10, "duration": null }
+            ]
+          }
+        ]
+      },
+      {
+        "weekNumber": 4,
+        "days": [
+          {
+            "dayNumber": 10,
+            "label": "Day 10 — All Skills Combo",
+            "drills": [
+              { "drillId": "drill_005", "order": 1, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_021", "order": 2, "sets": null, "reps": 30, "duration": null },
+              { "drillId": "drill_032", "order": 3, "sets": 5, "reps": null, "duration": 30 },
+              { "drillId": "drill_039", "order": 4, "sets": 3, "reps": 10, "duration": null }
+            ]
+          },
+          {
+            "dayNumber": 11,
+            "label": "Day 11 — Layups + Defense Slides",
+            "drills": [
+              { "drillId": "drill_023", "order": 1, "sets": null, "reps": 40, "duration": null },
+              { "drillId": "drill_033", "order": 2, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_035", "order": 3, "sets": 4, "reps": null, "duration": 60 }
+            ]
+          },
+          {
+            "dayNumber": 12,
+            "label": "Day 12 — Program Finale",
+            "drills": [
+              { "drillId": "drill_019", "order": 1, "sets": null, "reps": 20, "duration": null },
+              { "drillId": "drill_020", "order": 2, "sets": null, "reps": 25, "duration": null },
+              { "drillId": "drill_046", "order": 3, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_047", "order": 4, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_040", "order": 5, "sets": 3, "reps": 10, "duration": null }
+            ]
+          }
+        ]
+      }
+    ],
+    "totalXpReward": 1100,
+    "thumbnailUrl": ""
+  },
+  {
+    "id": "plan_pf_rookie",
+    "title": "Power Forward Foundations — Rookie Program",
+    "description": "The Enforcer is built in the paint and proven at both ends. This 4-week Rookie program focuses on the fundamentals that make power forwards dangerous: post footwork, mid-range scoring, physicality, and positioning. By the end of Week 4, you'll play with the confidence and IQ of a player who truly understands the forward position.",
+    "targetPosition": "PF",
+    "skillLevel": "Rookie",
+    "durationWeeks": 4,
+    "daysPerWeek": 3,
+    "weeks": [
+      {
+        "weekNumber": 1,
+        "days": [
+          {
+            "dayNumber": 1,
+            "label": "Day 1 — Bank Shots + Jab Steps",
+            "drills": [
+              { "drillId": "drill_022", "order": 1, "sets": null, "reps": 10, "duration": null },
+              { "drillId": "drill_019", "order": 2, "sets": null, "reps": 20, "duration": null },
+              { "drillId": "drill_046", "order": 3, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_020", "order": 4, "sets": null, "reps": 25, "duration": null }
+            ]
+          },
+          {
+            "dayNumber": 2,
+            "label": "Day 2 — Athleticism + Defense",
+            "drills": [
+              { "drillId": "drill_039", "order": 1, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_041", "order": 2, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_032", "order": 3, "sets": 5, "reps": null, "duration": 30 },
+              { "drillId": "drill_034", "order": 4, "sets": 4, "reps": null, "duration": 45 }
+            ]
+          },
+          {
+            "dayNumber": 3,
+            "label": "Day 3 — Pivot Footwork + Layups",
+            "drills": [
+              { "drillId": "drill_047", "order": 1, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_023", "order": 2, "sets": null, "reps": 40, "duration": null },
+              { "drillId": "drill_003", "order": 3, "sets": 3, "reps": null, "duration": 45 }
+            ]
+          }
+        ]
+      },
+      {
+        "weekNumber": 2,
+        "days": [
+          {
+            "dayNumber": 4,
+            "label": "Day 4 — Mid-Range + Footwork",
+            "drills": [
+              { "drillId": "drill_021", "order": 1, "sets": null, "reps": 30, "duration": null },
+              { "drillId": "drill_022", "order": 2, "sets": null, "reps": 10, "duration": null },
+              { "drillId": "drill_046", "order": 3, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_047", "order": 4, "sets": 3, "reps": 10, "duration": null }
+            ]
+          },
+          {
+            "dayNumber": 5,
+            "label": "Day 5 — Mikan + Lateral Bounds",
+            "drills": [
+              { "drillId": "drill_017", "order": 1, "sets": 4, "reps": null, "duration": 60 },
+              { "drillId": "drill_040", "order": 2, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_033", "order": 3, "sets": 3, "reps": null, "duration": 60 }
+            ]
+          },
+          {
+            "dayNumber": 6,
+            "label": "Day 6 — Ball Handling + Defense",
+            "drills": [
+              { "drillId": "drill_004", "order": 1, "sets": 3, "reps": null, "duration": 45 },
+              { "drillId": "drill_002", "order": 2, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_035", "order": 3, "sets": 4, "reps": null, "duration": 60 },
+              { "drillId": "drill_032", "order": 4, "sets": 5, "reps": null, "duration": 30 }
+            ]
+          }
+        ]
+      },
+      {
+        "weekNumber": 3,
+        "days": [
+          {
+            "dayNumber": 7,
+            "label": "Day 7 — Shooting + Athleticism",
+            "drills": [
+              { "drillId": "drill_019", "order": 1, "sets": null, "reps": 20, "duration": null },
+              { "drillId": "drill_022", "order": 2, "sets": null, "reps": 10, "duration": null },
+              { "drillId": "drill_039", "order": 3, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_040", "order": 4, "sets": 3, "reps": 10, "duration": null }
+            ]
+          },
+          {
+            "dayNumber": 8,
+            "label": "Day 8 — Post Footwork Deep Dive",
+            "drills": [
+              { "drillId": "drill_047", "order": 1, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_046", "order": 2, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_017", "order": 3, "sets": 4, "reps": null, "duration": 60 },
+              { "drillId": "drill_023", "order": 4, "sets": null, "reps": 40, "duration": null }
+            ]
+          },
+          {
+            "dayNumber": 9,
+            "label": "Day 9 — Defensive Positioning",
+            "drills": [
+              { "drillId": "drill_032", "order": 1, "sets": 5, "reps": null, "duration": 30 },
+              { "drillId": "drill_034", "order": 2, "sets": 4, "reps": null, "duration": 45 },
+              { "drillId": "drill_033", "order": 3, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_041", "order": 4, "sets": 3, "reps": null, "duration": 60 }
+            ]
+          }
+        ]
+      },
+      {
+        "weekNumber": 4,
+        "days": [
+          {
+            "dayNumber": 10,
+            "label": "Day 10 — Paint Finishing",
+            "drills": [
+              { "drillId": "drill_017", "order": 1, "sets": 4, "reps": null, "duration": 60 },
+              { "drillId": "drill_023", "order": 2, "sets": null, "reps": 40, "duration": null },
+              { "drillId": "drill_022", "order": 3, "sets": null, "reps": 10, "duration": null }
+            ]
+          },
+          {
+            "dayNumber": 11,
+            "label": "Day 11 — Free Throws + Footwork",
+            "drills": [
+              { "drillId": "drill_020", "order": 1, "sets": null, "reps": 25, "duration": null },
+              { "drillId": "drill_047", "order": 2, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_046", "order": 3, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_004", "order": 4, "sets": 3, "reps": null, "duration": 45 }
+            ]
+          },
+          {
+            "dayNumber": 12,
+            "label": "Day 12 — Enforcer Finale",
+            "drills": [
+              { "drillId": "drill_039", "order": 1, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_040", "order": 2, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_032", "order": 3, "sets": 5, "reps": null, "duration": 30 },
+              { "drillId": "drill_021", "order": 4, "sets": null, "reps": 30, "duration": null },
+              { "drillId": "drill_017", "order": 5, "sets": 4, "reps": null, "duration": 60 }
+            ]
+          }
+        ]
+      }
+    ],
+    "totalXpReward": 1100,
+    "thumbnailUrl": ""
+  },
+  {
+    "id": "plan_c_rookie",
+    "title": "Center Foundations — Rookie Program",
+    "description": "The Anchor holds the team together. This 4-week Rookie program builds the foundational skills that make centers dominant: post footwork, close-range finishing, defensive positioning, and the conditioning to play physically for an entire game. Anchor your team from day one and become the player everyone relies on.",
+    "targetPosition": "C",
+    "skillLevel": "Rookie",
+    "durationWeeks": 4,
+    "daysPerWeek": 3,
+    "weeks": [
+      {
+        "weekNumber": 1,
+        "days": [
+          {
+            "dayNumber": 1,
+            "label": "Day 1 — Close-Range Shooting + Footwork",
+            "drills": [
+              { "drillId": "drill_019", "order": 1, "sets": null, "reps": 20, "duration": null },
+              { "drillId": "drill_047", "order": 2, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_023", "order": 3, "sets": null, "reps": 40, "duration": null }
+            ]
+          },
+          {
+            "dayNumber": 2,
+            "label": "Day 2 — Defense Stance + Athleticism",
+            "drills": [
+              { "drillId": "drill_032", "order": 1, "sets": 5, "reps": null, "duration": 30 },
+              { "drillId": "drill_034", "order": 2, "sets": 4, "reps": null, "duration": 45 },
+              { "drillId": "drill_039", "order": 3, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_041", "order": 4, "sets": 3, "reps": null, "duration": 60 }
+            ]
+          },
+          {
+            "dayNumber": 3,
+            "label": "Day 3 — Pivot + Ball Handling",
+            "drills": [
+              { "drillId": "drill_047", "order": 1, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_003", "order": 2, "sets": 3, "reps": null, "duration": 45 },
+              { "drillId": "drill_004", "order": 3, "sets": 3, "reps": null, "duration": 45 },
+              { "drillId": "drill_020", "order": 4, "sets": null, "reps": 25, "duration": null }
+            ]
+          }
+        ]
+      },
+      {
+        "weekNumber": 2,
+        "days": [
+          {
+            "dayNumber": 4,
+            "label": "Day 4 — Mikan Drill + Box Jumps",
+            "drills": [
+              { "drillId": "drill_017", "order": 1, "sets": 4, "reps": null, "duration": 60 },
+              { "drillId": "drill_039", "order": 2, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_022", "order": 3, "sets": null, "reps": 10, "duration": null }
+            ]
+          },
+          {
+            "dayNumber": 5,
+            "label": "Day 5 — Defensive Positioning",
+            "drills": [
+              { "drillId": "drill_033", "order": 1, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_032", "order": 2, "sets": 5, "reps": null, "duration": 30 },
+              { "drillId": "drill_035", "order": 3, "sets": 4, "reps": null, "duration": 60 },
+              { "drillId": "drill_034", "order": 4, "sets": 4, "reps": null, "duration": 45 }
+            ]
+          },
+          {
+            "dayNumber": 6,
+            "label": "Day 6 — Charge + Footwork",
+            "drills": [
+              { "drillId": "drill_047", "order": 1, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_046", "order": 2, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_040", "order": 3, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_019", "order": 4, "sets": null, "reps": 20, "duration": null }
+            ]
+          }
+        ]
+      },
+      {
+        "weekNumber": 3,
+        "days": [
+          {
+            "dayNumber": 7,
+            "label": "Day 7 — Finishing + Free Throws",
+            "drills": [
+              { "drillId": "drill_017", "order": 1, "sets": 4, "reps": null, "duration": 60 },
+              { "drillId": "drill_023", "order": 2, "sets": null, "reps": 40, "duration": null },
+              { "drillId": "drill_020", "order": 3, "sets": null, "reps": 25, "duration": null }
+            ]
+          },
+          {
+            "dayNumber": 8,
+            "label": "Day 8 — Athleticism Circuit",
+            "drills": [
+              { "drillId": "drill_039", "order": 1, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_040", "order": 2, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_041", "order": 3, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_033", "order": 4, "sets": 3, "reps": null, "duration": 60 }
+            ]
+          },
+          {
+            "dayNumber": 9,
+            "label": "Day 9 — Ball Handling + Shooting",
+            "drills": [
+              { "drillId": "drill_002", "order": 1, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_003", "order": 2, "sets": 3, "reps": null, "duration": 45 },
+              { "drillId": "drill_021", "order": 3, "sets": null, "reps": 30, "duration": null },
+              { "drillId": "drill_022", "order": 4, "sets": null, "reps": 10, "duration": null }
+            ]
+          }
+        ]
+      },
+      {
+        "weekNumber": 4,
+        "days": [
+          {
+            "dayNumber": 10,
+            "label": "Day 10 — Post Game Showcase",
+            "drills": [
+              { "drillId": "drill_017", "order": 1, "sets": 4, "reps": null, "duration": 60 },
+              { "drillId": "drill_047", "order": 2, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_022", "order": 3, "sets": null, "reps": 10, "duration": null },
+              { "drillId": "drill_046", "order": 4, "sets": 3, "reps": 10, "duration": null }
+            ]
+          },
+          {
+            "dayNumber": 11,
+            "label": "Day 11 — Full Defense Session",
+            "drills": [
+              { "drillId": "drill_032", "order": 1, "sets": 5, "reps": null, "duration": 30 },
+              { "drillId": "drill_033", "order": 2, "sets": 3, "reps": null, "duration": 60 },
+              { "drillId": "drill_034", "order": 3, "sets": 4, "reps": null, "duration": 45 },
+              { "drillId": "drill_035", "order": 4, "sets": 4, "reps": null, "duration": 60 }
+            ]
+          },
+          {
+            "dayNumber": 12,
+            "label": "Day 12 — Anchor Finale",
+            "drills": [
+              { "drillId": "drill_019", "order": 1, "sets": null, "reps": 20, "duration": null },
+              { "drillId": "drill_020", "order": 2, "sets": null, "reps": 25, "duration": null },
+              { "drillId": "drill_039", "order": 3, "sets": 3, "reps": 10, "duration": null },
+              { "drillId": "drill_017", "order": 4, "sets": 4, "reps": null, "duration": 60 },
+              { "drillId": "drill_032", "order": 5, "sets": 5, "reps": null, "duration": 30 }
+            ]
+          }
+        ]
+      }
+    ],
+    "totalXpReward": 1100,
+    "thumbnailUrl": ""
+  }
+]
